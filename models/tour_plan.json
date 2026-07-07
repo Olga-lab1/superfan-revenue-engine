@@ -1,0 +1,124 @@
+{
+  "status": "Optimal",
+  "budget_eur": 12000.0,
+  "cities": [
+    {
+      "city": "London",
+      "country": "UK",
+      "expected_attendance": 220.0,
+      "expected_revenue": 5170.0,
+      "cost": 1565.0,
+      "expected_profit": 3605.0,
+      "arbitrage_score": 0.0
+    },
+    {
+      "city": "Berlin",
+      "country": "DE",
+      "expected_attendance": 194.0,
+      "expected_revenue": 4559.0,
+      "cost": 1250.0,
+      "expected_profit": 3309.0,
+      "arbitrage_score": 15.6
+    },
+    {
+      "city": "Amsterdam",
+      "country": "NL",
+      "expected_attendance": 142.0,
+      "expected_revenue": 3337.0,
+      "cost": 1295.0,
+      "expected_profit": 2042.0,
+      "arbitrage_score": 58.4
+    },
+    {
+      "city": "Paris",
+      "country": "FR",
+      "expected_attendance": 147.0,
+      "expected_revenue": 3454.0,
+      "cost": 1430.0,
+      "expected_profit": 2024.0,
+      "arbitrage_score": 17.4
+    },
+    {
+      "city": "Barcelona",
+      "country": "ES",
+      "expected_attendance": 106.0,
+      "expected_revenue": 2491.0,
+      "cost": 1115.0,
+      "expected_profit": 1376.0,
+      "arbitrage_score": 24.5
+    },
+    {
+      "city": "Madrid",
+      "country": "ES",
+      "expected_attendance": 93.0,
+      "expected_revenue": 2186.0,
+      "cost": 1115.0,
+      "expected_profit": 1071.0,
+      "arbitrage_score": 5.8
+    },
+    {
+      "city": "Warsaw",
+      "country": "PL",
+      "expected_attendance": 81.0,
+      "expected_revenue": 1904.0,
+      "cost": 845.0,
+      "expected_profit": 1059.0,
+      "arbitrage_score": 31.3
+    },
+    {
+      "city": "Leipzig",
+      "country": "DE",
+      "expected_attendance": 78.0,
+      "expected_revenue": 1833.0,
+      "cost": 845.0,
+      "expected_profit": 988.0,
+      "arbitrage_score": 100.0
+    },
+    {
+      "city": "Prague",
+      "country": "CZ",
+      "expected_attendance": 73.0,
+      "expected_revenue": 1716.0,
+      "cost": 890.0,
+      "expected_profit": 826.0,
+      "arbitrage_score": 34.5
+    },
+    {
+      "city": "Riga",
+      "country": "LV",
+      "expected_attendance": 67.0,
+      "expected_revenue": 1574.0,
+      "cost": 755.0,
+      "expected_profit": 819.0,
+      "arbitrage_score": 95.1
+    },
+    {
+      "city": "Krakow",
+      "country": "PL",
+      "expected_attendance": 62.0,
+      "expected_revenue": 1457.0,
+      "cost": 800.0,
+      "expected_profit": 657.0,
+      "arbitrage_score": 58.9
+    }
+  ],
+  "total_cost_eur": 11905.0,
+  "total_expected_profit_eur": 17776.0,
+  "naive_big_city_comparison": {
+    "cities": [
+      "London",
+      "Berlin",
+      "Madrid",
+      "Paris",
+      "Vienna",
+      "Hamburg",
+      "Warsaw",
+      "Barcelona",
+      "Munich",
+      "Prague"
+    ],
+    "total_cost_eur": 11825.0,
+    "total_expected_profit_eur": 15413.0
+  },
+  "profit_uplift_vs_naive_eur": 2363.0
+}

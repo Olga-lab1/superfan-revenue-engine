@@ -1,0 +1,117 @@
+{
+  "metrics": {
+    "roc_auc": 0.7981,
+    "pr_auc": 0.4296,
+    "baseline_logreg_roc_auc": 0.799,
+    "base_conversion_rate": 0.1295,
+    "top_decile_lift": 3.81,
+    "top_2_deciles_capture_pct": 0.5869,
+    "revenue_capture_top_10pct": 0.375,
+    "best_iteration": 144,
+    "n_train": 24000,
+    "n_test": 6000,
+    "trained_at_utc": "2026-07-07T15:02:48+00:00"
+  },
+  "global_shap_importance": {
+    "discovery_channel": 0.29030001163482666,
+    "listening_intensity": 0.27880001068115234,
+    "direct_channel_score": 0.27090001106262207,
+    "catalog_depth_pct": 0.23899999260902405,
+    "attended_show": 0.14959999918937683,
+    "skip_rate": 0.1290999948978424,
+    "age_band": 0.1128000020980835,
+    "saves_library": 0.11089999973773956,
+    "city": 0.10279999673366547,
+    "advocacy_score": 0.1005999967455864,
+    "email_open_rate": 0.06719999760389328,
+    "months_since_discovery": 0.03200000151991844,
+    "monthly_streams": 0.025800000876188278,
+    "engagement_velocity": 0.023099999874830246,
+    "playlist_adds": 0.015599999576807022,
+    "social_engagements_90d": 0.01510000042617321,
+    "shared_track": 0.005100000184029341,
+    "on_mailing_list": 0.0031999999191612005,
+    "comments_dms": 0.00279999990016222,
+    "follows_socials": 0.0010999999940395355
+  },
+  "revenue_capture": [
+    {
+      "top_pct_of_fans": "1%",
+      "revenue_captured": 0.039
+    },
+    {
+      "top_pct_of_fans": "2%",
+      "revenue_captured": 0.076
+    },
+    {
+      "top_pct_of_fans": "5%",
+      "revenue_captured": 0.204
+    },
+    {
+      "top_pct_of_fans": "10%",
+      "revenue_captured": 0.375
+    },
+    {
+      "top_pct_of_fans": "20%",
+      "revenue_captured": 0.563
+    },
+    {
+      "top_pct_of_fans": "50%",
+      "revenue_captured": 0.835
+    }
+  ],
+  "categorical_levels": {
+    "city": [
+      "Amsterdam",
+      "Barcelona",
+      "Berlin",
+      "Bristol",
+      "Brussels",
+      "Cologne",
+      "Copenhagen",
+      "Dublin",
+      "Glasgow",
+      "Hamburg",
+      "Helsinki",
+      "Krakow",
+      "Leipzig",
+      "Lisbon",
+      "London",
+      "Lyon",
+      "Madrid",
+      "Manchester",
+      "Milan",
+      "Munich",
+      "Oslo",
+      "Other",
+      "Paris",
+      "Prague",
+      "Riga",
+      "Rotterdam",
+      "Stockholm",
+      "Tallinn",
+      "Utrecht",
+      "Vienna",
+      "Vilnius",
+      "Warsaw",
+      "Zurich"
+    ],
+    "age_band": [
+      "16-21",
+      "22-29",
+      "30-39",
+      "40-54",
+      "55+"
+    ],
+    "discovery_channel": [
+      "Algorithmic radio",
+      "Another artist's collab",
+      "Bandcamp browse",
+      "Editorial playlist",
+      "Friend shared",
+      "Live show",
+      "Music blog / press",
+      "Short-form video"
+    ]
+  }
+}

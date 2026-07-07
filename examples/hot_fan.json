@@ -1,0 +1,19 @@
+{
+  "fan_id": "F_DEMO",
+  "city": "Leipzig",
+  "age_band": "30-39",
+  "discovery_channel": "Live show",
+  "months_since_discovery": 5,
+  "monthly_streams": 60,
+  "catalog_depth_pct": 70,
+  "skip_rate": 0.08,
+  "playlist_adds": 6,
+  "saves_library": 1,
+  "follows_socials": 1,
+  "social_engagements_90d": 25,
+  "on_mailing_list": 1,
+  "email_open_rate": 0.8,
+  "attended_show": 1,
+  "shared_track": 1,
+  "comments_dms": 5
+}
