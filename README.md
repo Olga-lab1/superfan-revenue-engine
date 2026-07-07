@@ -6,6 +6,8 @@
 ![Python](https://img.shields.io/badge/python-3.12-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+** Live demo:** https://superfan-revenue-engine-hzxphsbw6jvnwj3fz4hfmn.streamlit.app/
+
 Streams pay an independent artist ~€0.003 each. A superfan — vinyl, merch, gig tickets — is worth €30–300 a year. Yet indie marketing overwhelmingly chases streams, the *lowest-value* action a fan can take, because streams are what the dashboards show.
 
 This engine applies B2B revenue science to that problem:
